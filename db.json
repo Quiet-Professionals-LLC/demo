@@ -278,5 +278,7 @@
     "excludeFlags": null,
     "excludeExactFlags": null,
     "inAll": false
-  }
+  },
+  
+  "securityToken": "12345token"
 }
