@@ -280,5 +280,7 @@
     "inAll": false
   },
   
-  "securityToken": "12345token"
+  "securityToken": {
+    "currentToken": "token012345" 
+  }
 }
