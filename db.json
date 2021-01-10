@@ -256,8 +256,8 @@
       "excludeExactFlags": null,
       "inAll": false
     },
-    "securityToken": {
-      "currentToken": "mocktoken012345" 
-    }
+  }
+  "securityToken": {
+    "securityToken": "mocktoken012345" 
   }
 }
