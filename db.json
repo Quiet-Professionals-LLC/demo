@@ -236,30 +236,6 @@
                 }
               ],
               "signalCount": 10
-            },
-            {
-              "registrationID": "107160fe-2775-315a-bc97-a6963bae6923",
-              "signals": [
-                {
-                  "registrationID": "107160fe-2775-315a-bc97-a6963bae6923",
-                  "latitude": 41.49672,
-                  "longitude": -81.68791,
-                  "timestamp": 1597324542000,
-                  "flags": 0,
-                  "hot": false,
-                  "ipAddress": null
-                },
-                {
-                  "registrationID": "107160fe-2775-315a-bc97-a6963bae6923",
-                  "latitude": 41.4967293,
-                  "longitude": -81.6879062,
-                  "timestamp": 1597324542000,
-                  "flags": 0,
-                  "hot": false,
-                  "ipAddress": "174.232.141.23"
-                }
-              ],
-              "signalCount": 2
             }
           ],
           "longitude": -82.568518,
