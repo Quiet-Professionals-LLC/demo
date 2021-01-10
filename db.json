@@ -255,7 +255,7 @@
       "excludeFlags": null,
       "excludeExactFlags": null,
       "inAll": false
-    },
+    }
   },
   "securityToken": {
     "securityToken": "mocktoken012345" 
