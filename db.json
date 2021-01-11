@@ -257,7 +257,7 @@
       "inAll": false
     }
   },
-  "securityToken": {
-    "securityToken": "mocktoken012345" 
+  "tempSecurityToken": {
+    "mocktoken012345" 
   }
 }
